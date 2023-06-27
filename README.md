@@ -2,11 +2,7 @@
  This project showcases a gallery of images featuring various animals in their natural habitats. The gallery is built using HTML and CSS.
 
 Getting Started
-To view the gallery locally, follow these steps:
 
-1.Clone the repository: git clone <repository-url>
-2.Navigate to the project directory: cd <repository-name>
-3.Open the index.html file in a web browser.
 
 Prerequisites
 You need a web browser to view the gallery.
