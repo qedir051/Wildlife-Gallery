@@ -6,8 +6,11 @@
 To view the gallery locally, follow these steps:
 
 1.Clone the repository: git clone <https://github.com/qedir051/Wildlife-Gallery.git>
+
 2.Navigate to the project directory: cd wildlife-gallery
+
 3.Open the index.html file in a web browser.
+
 
 ***Prerequisites***
 
