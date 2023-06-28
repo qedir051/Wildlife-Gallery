@@ -24,7 +24,9 @@ CSS
 ***Features***
 
 Responsive layout
+
 Images with hover effect
+
 Eye-catching title with decorative borders
 
 ***Contributing***
